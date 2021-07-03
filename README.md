@@ -6,3 +6,6 @@
 ・Unity2020.3.6f1  
 ・VisualStudio2019 for Mac  
 ・macOS Big Sur v11.0.1  
+
+# スタジオしまづ公式サイト
+・https://fromalgorithm.jimdofree.com
